@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1	frame_0182.jpg	xe ở góc dưới phải, bị cắt ở mép ảnh	added	AI bỏ sót; xe vẫn nhận diện được và theo guideline chỉ gán phần xe nằm trong ảnh							
+1	frame_0227.jpg	xe ở sát mép phải ảnh	added	AI bỏ sót; vẫn thấy thân xe, nên thêm box car theo guideline							
+1	frame_0270.jpg	xe ở vùng dưới bên phải	added	AI bỏ sót; thấy rõ thân xe nên bổ sung box car							
